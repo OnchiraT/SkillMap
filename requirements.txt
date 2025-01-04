@@ -1,0 +1,5 @@
+```
+textract
+beautifulsoup4
+requests
+```
